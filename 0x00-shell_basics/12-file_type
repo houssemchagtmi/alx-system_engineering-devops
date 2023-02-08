@@ -1,2 +1,3 @@
 #!/bin/bash
-file=/tmp/iamafile
+find . -type f -printf "%s\t%f\n"
+
