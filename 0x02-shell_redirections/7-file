@@ -1,2 +1,0 @@
-#!/bin/bash
-echo "Best School" | tee "*'\"Best School\"'\$?*****:)" > /dev/null && echo >> "*'\"Best School\"'\$?*****:)"
